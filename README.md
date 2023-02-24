@@ -1,3 +1,4 @@
 # nerdzone
 
-Check out NerdZone {here}https://github.com/danishnawab55/nerdzone.git
+A simple js clone of flappy bird
+It is Live [here](https://danishnawab55.github.io/nerdzone/)
